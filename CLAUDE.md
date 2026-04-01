@@ -30,7 +30,7 @@ Deployment is automatic on push to `main` via `.github/workflows/static.yml`.
 - `quartz.layout.ts` — sidebar structure, Graph view, Backlinks, component placement
 - `quartz/styles/custom.scss` — visual styling and colors
 
-**CI/CD:** GitHub Actions builds with Node 20 (`npm ci` + `npx quartz build`), deploys artifact from `/public/` to GitHub Pages on every push to `main`.
+**CI/CD:** GitHub Actions builds with Node 22 (`npm ci` + `npx quartz build`), deploys artifact from `/public/` to GitHub Pages on every push to `main`.
 
 ## Content Rules
 
