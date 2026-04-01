@@ -26,7 +26,7 @@ This plugin accepts the following configuration options:
 - `disableBrokenWikilinks`: If `true`, replaces links to non-existent notes with a dimmed, disabled link. Defaults to `false`.
 
 > [!warning]
-> Don't remove this plugin if you're using [[Obsidian compatibility|Obsidian]] to author the content!
+> Don't remove this plugin if your Markdown uses [[wikilinks]], [[callouts]], or other syntax from [[Obsidian compatibility]]—that applies no matter which editor you use.
 
 ## API
 

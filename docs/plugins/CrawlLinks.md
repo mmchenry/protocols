@@ -11,7 +11,7 @@ This plugin parses links and processes them to point to the right places. It is 
 
 This plugin accepts the following configuration options:
 
-- `markdownLinkResolution`: Sets the strategy for resolving Markdown paths, can be `"absolute"` (default), `"relative"` or `"shortest"`. You should use the same setting here as in [[Obsidian compatibility|Obsidian]].
+- `markdownLinkResolution`: Sets the strategy for resolving Markdown paths, can be `"absolute"` (default), `"relative"` or `"shortest"`. Match this to how you write links in your notes; if you follow [[Obsidian compatibility]], use the same mode you would in Obsidian (or keep defaults—any editor works).
   - `absolute`: Path relative to the root of the content folder.
   - `relative`: Path relative to the file you are linking from.
   - `shortest`: Name of the file. If this isn't enough to identify the file, use the full absolute path.

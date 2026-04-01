@@ -20,13 +20,13 @@ You do **not** need Obsidian. Any workflow that edits Markdown under `content/` 
 Best for small fixes (typos, a single section, one new file) when you do not want to install anything.
 
 1. Open the repository on GitHub: [github.com/mmchenry/protocols](https://github.com/mmchenry/protocols).
-2. Browse to the file you need under **`content/`** (for example `content/index.md` or a note under `content/McHenryLab Protocols/`).
+2. Browse to the file you need under **`content/`** (for example `content/index.md`, `content/Reference/…`, or `content/McHenryLab Protocols/…`).
 3. Click the **pencil** (Edit this file), make your changes, and use **Commit changes**.
 4. Commit directly to **`main`** (or open a pull request if your team uses PRs). Pushing to `main` starts the **Deploy Quartz site to GitHub Pages** workflow; when it succeeds, the live site updates after a short delay.
 
 **Tips**
 
-- **New page:** Use **Add file → Create new file**, place it under `content/` (for example `content/McHenryLab Protocols/My Protocol.md`), then edit **`content/index.md`** and add a Markdown link to the new page so it appears in the table of contents.
+- **New page:** Use **Add file → Create new file**, place it under `content/` in the right top-level area (for example `content/McHenryLab Protocols/…` for SOPs or `content/Reference/…` for help docs), then edit **`content/index.md`** and add a Markdown link if you want it on the home TOC.
 - **Images or PDFs:** Use **Add file → Upload files** into an **`attachments/`** folder next to the related notes (see [Important Rules](#important-rules)). Reference them with **relative** paths from the Markdown file.
 - **Preview:** The web editor does not run the full Quartz site. For an exact preview, use **local preview** (VS Code/Cursor section below) or fix any build errors reported in the **Actions** tab if a deploy fails.
 
@@ -98,7 +98,7 @@ You can use the **Obsidian Git** community plugin to commit and push from Obsidi
 
 ### Adding a new page
 
-1. Create a new `.md` file under **`content/`** (for example `content/McHenryLab Protocols/My Protocol.md`).
+1. Create a new `.md` file under **`content/`** in the appropriate folder (for example `content/McHenryLab Protocols/Topic/My Protocol.md` or `content/Reference/My Guide.md`).
 2. Add a link to it from **`content/index.md`** so it appears in the home TOC. Pages are still searchable even if not linked.
 
 ### Syncing with Git (local clones)

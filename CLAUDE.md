@@ -4,9 +4,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is the **McHenry Lab Protocols** repository — a public documentation site built with **Quartz 4** (a static site generator optimized for Obsidian vaults) and deployed automatically to GitHub Pages via GitHub Actions.
+This is the **McHenry Lab Protocols** repository — a public documentation site built with **Quartz 4** (a static site generator that works well with Markdown folders and optional Obsidian-style features) and deployed automatically to GitHub Pages via GitHub Actions.
 
-- **Content root:** `/content/` (open this subfolder as an Obsidian vault, not the repo root)
+- **Content root:** `/content/` — lab members edit Markdown here using **VS Code, Cursor, GitHub’s web editor, Obsidian,** or any editor; open this folder as the vault root in Obsidian if using it, not the repo root
 - **Site is public** — never commit sensitive data, private student info, or unpublished proprietary results
 
 ## Local Development
@@ -21,9 +21,9 @@ Deployment is automatic on push to `main` via `.github/workflows/static.yml`.
 
 ## Architecture
 
-**Content authoring:** Markdown files in `/content/McHenryLab Protocols/`. Lab members edit via Obsidian with:
+**Content authoring:** Markdown under `/content/` using **sibling folders** for major areas (e.g. `/content/Reference/`, `/content/McHenryLab Protocols/` with nested topic folders inside). Editors push changes to `main` (see repo `README.md`). Conventions:
 - Attachments stored in `attachments/` subfolders
-- Links as relative paths
+- Links as relative paths (and `[[wikilinks]]` where supported by Quartz)
 
 **Site configuration (repo root, outside vault):**
 - `quartz.config.ts` — site title, search, global metadata
