@@ -12,7 +12,7 @@ Welcome to the McHenry Lab knowledge base. Use the search bar (top-right) to fin
 
 ### Reference & help
 - [[Reference/Welcome]]
-- [[Reference/Howto - Images and attachments]]
+- [[howto-images-and-pdfs]] — images, PDFs, and `attachments/` folders
 
 ### Animal Husbandry & Ethics
 - [[McHenryLab Protocols/Animal Husbandry & Ethics/Animal Handling - Example Protocol]]
