@@ -90,7 +90,7 @@ View the site at `http://localhost:8080`. Changes to content are picked up on re
 ## Important Rules
 
 - **Public visibility:** This is a **public** website. Never commit sensitive data, private student information, or unpublished proprietary results.
-- **Large files:** Do not upload large videos (`.mp4`, `.mov`) or heavy datasets (`.mat`, `.csv`). Use the lab's Synology system and link to files there instead.
+- **Large files:** Do not upload large videos (`.mp4`, `.mov`) or heavy datasets (`.mat`, `.csv`). Use the lab's server system and link to files there instead.
 - **Attachments:** Always place images or PDFs in an `attachments/` folder within the relevant content directory.
 
 ---
