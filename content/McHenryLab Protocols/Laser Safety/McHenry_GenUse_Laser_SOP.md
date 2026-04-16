@@ -40,8 +40,7 @@ This SOP covers:
 
 > **IMPORTANT NOTE ON 808 nm:** Near-infrared light (i.e., the 808 nm laser) is completely invisible the the human eye and non-IR detecting cameras. Always treat this laser as the greatest hazard in the lab.
 
-A full laser inventory with manufacturer details, model numbers, and specifications is
-kept in [location / Appendix A].
+**See Appendix A for a full laser inventory with manufacturer details, model numbers, and specifications.
 
 ---
 
@@ -126,16 +125,7 @@ energized and the shutter is open.
 Because this lab operates lasers across 635–808 nm, users must verify their eyewear
 covers the specific wavelength they are working with.
 
-**Available eyewear in this lab:**
-
-
-| Eyewear Model | Wavelength Coverage | OD Value | Storage Location |
-| ------------- | ------------------- | -------- | ---------------- |
-| [Model]       | [nm range]          | [OD]     | [Location]       |
-| [Model]       | [nm range]          | [OD]     | [Location]       |
-
-
-*Fill in from your inventory — see Appendix B.*
+*See Appendix B for list of available eyewear*
 
 **Eyewear rules:**
 
@@ -353,29 +343,15 @@ controlled and intentional
 
 ## APPENDICES
 
-- **Appendix A:** Laser Inventory Table (manufacturer, model, class, wavelength, power,
-mode, location)
-
 ![[Appendix A - Laser Inventory]]
 
 ---
 
-- **Appendix B:** Laser Safety Eyewear Inventory (model, wavelength coverage, OD
-values, storage location)
+![[Appendix B - Laser Eyewear Inventory]]
 
 ---
 
-- **Appendix C:** Authorized Users List with training dates
-
-**Current Authorized Users:**
-
-
-| Name            | Training Completion Date | Lasers Authorized |
-| --------------- | ------------------------ | ----------------- |
-| Ashley Peterson | 1/15/20                  | All               |
-| Kai Yung        | 10/28/25                 | All               |
-| Sean Ono        | 11/2/25                  | All               |
-
+![[Appendix C - Authorized Users]]
 
 ---
 

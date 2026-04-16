@@ -140,16 +140,7 @@ reflex provides some protection at Class 2 power levels only. At Class 3b and Cl
 
 **Laser(s) covered in this section:**
 
-| Manufacturer  | Model | Class  | Type  | Wavelength | OD   | Power or Pulse Energy | Mode(s)    | Location     |
-| ------------- | ----- | ------ | ----- | ---------- | ---- | --------------------- | ---------- | ------------ |
-| Edmund        | Model | 2      | Diode | 635        | 0.7  | 1 mW                  | CW         | McGaugh 5346 |
-| Laser Quantum | Model | 4      | Diode | 532,1064   | 3.14 | >0.5 W                | CW         | McGaugh 5346 |
-| Newport       | Model | 3b     | Diode | 658        | 1.82 | 65 mW                 | CW         | McGaugh 5346 |
-| Thor Labs     | Model | 3r     | Diode | 405        | OD   | <5 mW                 | CW         | McGaugh 5346 |
-| Lasever       | Model | 4      | Diode | 532        | OD   | >1500 mW              | CW         | McGaugh 5346 |
-| Oxford Lasers | Model | 4 (IR) | IR    | 808-810    | OD   | <1000 W               | CW, Pulsed | McGaugh 5346 |
-| Z-Laser       | Model | 4      | Diode | 808        | OD   | <1700 nW>             | CW, Pulsed | McGaugh 5346 |
-
+![[Appendix A - Laser Inventory]]
 
 ### Eyewear Requirements — Visible (405–658 nm)
 
@@ -162,11 +153,8 @@ rated for one visible wavelength may not be adequate for another.
 
 - Visible laser eyewear inventory:
 
-| Wavelength | Eyewear Model | OD Value | Storage Location |
-|---|---|---|---|
-| 405 nm | [Model] | [OD] | [Location] |
-| [nm] | [Model] | [OD] | [Location] |
-| 658 nm | [Model] | [OD] | [Location] |
+![[Appendix B - Laser Eyewear Inventory]]
+
 <!-- - Alignment eyewear (reduced OD, LSO-approved if applicable): [Model, OD value,
   storage location — label clearly as "ALIGNMENT EYEWEAR"] -->
 <!-- > If reduced OD alignment eyewear is used, you must return to full OD eyewear as soon
@@ -227,6 +215,7 @@ rated for one visible wavelength may not be adequate for another.
 ---
 
 ## SECTION 2 — NEAR-INFRARED ALIGNMENT (808 nm)
+**See Appendix A - Laser Inventory, IR lasers**
 
 This section covers alignment of the 808 nm laser system(s).
 
@@ -238,10 +227,6 @@ Because of the elevated hazard level of IR lasers, the operator does not remain
 in the room while the IR laser is energized and the shutter is open. All active
 beam steering and verification is performed remotely using IR sensitive cameras.
 
-**IR Laser(s) covered in this section:**
-| Manufacturer  | Model | Class  | Type  | Wavelength | OD   | Power or Pulse Energy | Mode(s)    | Location     |
-| ------------- | ----- | ------ | ----- | ---------- | ---- | --------------------- | ---------- | ------------ |
-| Z-Laser       | Model | 4      | Diode | 808        | OD   | <1700 nW>             | CW, Pulsed | McGaugh 5346 |
 
 ### Eyewear Requirements — IR Lasers
 
@@ -312,7 +297,7 @@ leaving the room.
 All beam steering and verification is done from outside the room using the camera feed.
 
 1. From outside the room, insert key and power on the 808 nm laser
-2. Set power to minimum — [lab-specific minimum power setting]
+2. Set power to minimum 
 3. Announce "808 nm laser on" to your buddy / anyone in the hallway
 4. Open the shutter — confirm the beam is visible on the IR camera feed
 5. Using remote adjustment tools [describe your specific mechanism — e.g., motorized
@@ -375,17 +360,17 @@ If you need to re-enter the room to adjust an optic manually:
 
 1. Close shutter and power off laser if safe to do so
 2. Use fire extinguisher for small, contained fires if trained to do so
-3. Fire extinguisher location: [location]
+3. Fire extinguisher location: McGaugh Hall rm. 5346
 4. Evacuate and call 911 if not immediately controlled
 
 ### Emergency Contacts
 
-| Contact | Phone |
-|---|---|
-| Campus Emergency | 911 (campus) / 949-824-5222 (cell) |
-| UCI EHS / Laser Safety Officer | 949-824-6200 |
-| PI: [Name] | [Phone number] |
-| Secondary contact: [Name] | [Phone number] |
+| Contact                            | Phone                              |
+| ---------------------------------- | ---------------------------------- |
+| Campus Emergency                   | 911 (campus) / 949-824-5222 (cell) |
+| UCI EHS / Laser Safety Officer     | 949-824-6200                       |
+| PI: Matthew Mchenry                | 949-302-7325                       |
+| Secondary contact: Ashley Peterson | 206-331-8505                       |
 
 ---
 
@@ -413,10 +398,10 @@ If you need to re-enter the room to adjust an optic manually:
 - UCI EHS Laser Safety Manual, September 2023 (www.ehs.uci.edu)
 - UCI EHS Laser Safety During Alignments Checklist (09/2018)
 - ANSI Z136.1-2014, American National Standard for Safe Use of Lasers
-- [Lab Name] Laser General Use SOP (Version 1.0)
-- Manufacturer manuals for each laser system (see General Use SOP Appendix A)
+- [McHenry Lab Laser General Use SOP](McHenry_GenUse_Laser_SOP.md)
 
----
+
+<!-- ---
 
 ## APPENDICES
 
@@ -426,7 +411,7 @@ If you need to re-enter the room to adjust an optic manually:
 - **Appendix B:** IR Camera / Remote Viewing System Setup Guide
 - **Appendix C:** Remote Adjustment Tool Inventory (motorized mounts, remote
   actuators, etc.)
-- **Appendix D:** 808 nm Interlock System Description and Test Procedure
+- **Appendix D:** 808 nm Interlock System Description and Test Procedure -->
 
 ---
 

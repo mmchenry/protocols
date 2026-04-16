@@ -4,7 +4,7 @@ description: "Laser safety eyewear inventory for McHenry Lab SOPs."
 draft: false
 ---
 
-# Appendix B - Laser Eyewear Inventory
+- Laser Safety Eyewear Inventory (model, wavelength coverage, OD values, storage location)
 
 | Eyewear Model | Wavelength Coverage | OD Value | Storage Location |
 | ------------- | ------------------- | -------- | ---------------- |

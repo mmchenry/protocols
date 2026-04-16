@@ -1,10 +1,10 @@
 ---
-title: "Appendix C - Authorized Users"
+title: "Appendix C - Current Authorized Users"
 description: "Authorized users list and training dates for McHenry Lab SOPs."
 draft: false
 ---
 
-# Appendix C - Authorized Users
+- Authorized Users List with training dates
 
 | Name            | Training Completion Date | Lasers Authorized |
 | --------------- | ------------------------ | ----------------- |
