@@ -3,8 +3,7 @@ title: "Appendix A - Laser Inventory"
 description: "Laser inventory table for McHenry Lab SOPs."
 draft: false
 ---
-
-# Appendix A - Laser Inventory
+- Laser Inventory Table (manufacturer, model, class, wavelength, power, mode, location)
 
 | Manufacturer  | Model | Class  | Type  | Wavelength | OD   | Power or Pulse Energy | Mode(s)    | Location     | Count |
 | ------------- | ----- | ------ | ----- | ---------- | ---- | --------------------- | ---------- | ------------ | ----  |
