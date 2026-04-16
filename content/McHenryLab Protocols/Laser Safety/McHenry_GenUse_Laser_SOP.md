@@ -9,11 +9,10 @@ University of California, Irvine
 | **Principal Investigator** | Matthew McHenry |
 | **Written by**             | Ashley Peterson |
 | **Date**                   | 03/31/2026      |
+| **Updated By**             | n/a             |
+| **Updated On**             | n/a             |
+| **Version**                | 1.0             |
 
-
-| **Updated By** | n/a |
-| **Updated On** | n/a |
-| **Version** | 1.0 |
 
 **Reference Documents:**
 
@@ -37,7 +36,7 @@ This SOP covers:
 - **Laser Classes:** Class 2 through Class 4
 - **Operating Modes:** Continuous Wave (CW) and Pulsed
 - **Power Range:** 1 mW to 1.7 W
-- **Wavelength Range:** 635 nm to 808 nm (Infrared)
+- **Wavelength Range:** 405 nm to 808 nm (Infrared)
 
 > **IMPORTANT NOTE ON 808 nm:** Near-infrared light (i.e., the 808 nm laser) is completely invisible the the human eye and non-IR detecting cameras. Always treat this laser as the greatest hazard in the lab.
 
@@ -173,11 +172,7 @@ possible. Mask possible reflective surfaces on the experimental setup where poss
 - Check for stray or errant reflections from polarizers, mirrors, and lenses at each step when setting up or adjusting optics
 - Enclose beam paths as much as practically possible
 - Before beginning work, clear the table and surrounding area of combustibles, unnecessary reflective objects (monitors, glass items, structural beams), and trip hazards
-
-### Windows
-
-Cover all curtains, doors, and access areas around the laser area before operating Class 3b or
-Class 4 lasers.
+- Close all curtains, doors, and access areas around the laser area before operating Class 3b or Class 4 lasers.
 
 ### Key-Switch Interlock
 
@@ -361,17 +356,7 @@ controlled and intentional
 - **Appendix A:** Laser Inventory Table (manufacturer, model, class, wavelength, power,
 mode, location)
 
-
-| Manufacturer  | Model | Class  | Type  | Wavelength | OD   | Power or Pulse Energy | Mode(s)    | Location     |
-| ------------- | ----- | ------ | ----- | ---------- | ---- | --------------------- | ---------- | ------------ |
-| Edmund        | Model | 2      | Diode | 635        | 0.7  | 1 mW                  | CW         | McGaugh 5346 |
-| Laser Quantum | Model | 4      | Diode | 532,1064   | 3.14 | >0.5 W                | CW         | McGaugh 5346 |
-| Newport       | Model | 3b     | Diode | 658        | 1.82 | 65 mW                 | CW         | McGaugh 5346 |
-| Thor Labs     | Model | 3r     | Diode | 405        | OD   | <5 mW                 | CW         | McGaugh 5346 |
-| Lasever       | Model | 4      | Diode | 532        | OD   | >1500 mW              | CW         | McGaugh 5346 |
-| Oxford Lasers | Model | 4 (IR) | IR    | 808-810    | OD   | <1000 W               | CW, Pulsed | McGaugh 5346 |
-| Z-Laser       | Model | 4      | Diode | 808        | OD   | <1700 nW>             | CW, Pulsed | McGaugh 5346 |
-
+![[Appendix A - Laser Inventory]]
 
 ---
 
