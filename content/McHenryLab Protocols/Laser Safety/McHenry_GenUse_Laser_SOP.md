@@ -1,6 +1,6 @@
 # LASER GENERAL USE SOP
 
-**McHenry Lab - McGaugh Hall rm 5346 **
+**McHenry Lab — McGaugh Hall rm 5346**
 University of California, Irvine
 
 
@@ -42,9 +42,9 @@ This SOP covers:
 - **Power Range:** 1 mW to 1.7 W
 - **Wavelength Range:** 405 nm to 808 nm (Infrared)
 
-> **IMPORTANT NOTE ON 808 nm:** Near-infrared light (i.e., the 808 nm laser) is completely invisible the the human eye and non-IR detecting cameras. Always treat this laser as the greatest hazard in the lab.
+> **IMPORTANT NOTE ON 808 nm:** Near-infrared light (i.e., the 808 nm laser) is completely invisible to the human eye and non-IR detecting cameras. Always treat this laser as the greatest hazard in the lab.
 
-**See Appendix A for a full laser inventory with manufacturer details, model numbers, and specifications.
+**See Appendix A for a full laser inventory with manufacturer details, model numbers, and specifications.**
 
 ---
 
@@ -56,8 +56,8 @@ This SOP covers:
 
 ### Principal Investigator
 
-**Matthew McHenry 
-**[mmchenry@uci.edu](mailto:mmchenry@uci.edu) 
+**Matthew McHenry**  
+[mmchenry@uci.edu](mailto:mmchenry@uci.edu)
 
 - Authorizes all laser users
 - Ensures users complete required training before operating any laser
@@ -94,10 +94,11 @@ This SOP covers:
 
 ### Beam Hazards
 
-The lasers used in the lab range between 635 and 808 nm, which falls entirely within the
+The lasers used in the lab range between 520 and 808 nm, which falls entirely within the
 ocular hazard region. All wavelengths in use can pass through the cornea and lens
 and focus directly onto the retina, potentially causing permanent, irreversible damage.
 
+- **520–532 nm (visible green):** The human eye is most sensitive near this range, making green wavelengths more hazardous per unit power than red. The blink reflex (~0.25 sec) offers some protection for Class 2 only. At Class 3b and 4 power levels — including the high-power 532 nm systems in this lab — injury can occur before you can blink.
 - **635 nm (visible red):** The blink reflex (~0.25 sec) offers some protection for Class 2 only. At Class 3b and 4 power levels, injury can occur before you can blink.
 - **780–808 nm (near-IR):** Completely invisible. No blink reflex. No warning sensation. Burns can occur with no awareness of exposure. Treat with extreme caution at all times.
 
@@ -146,7 +147,7 @@ laser without explicit authorization from the PI.
 Laser safety eyewear is **required** any time an open-beam Class 3b or Class 4 laser is
 energized and the shutter is open.
 
-Because this lab operates lasers across 635–808 nm, users must verify their eyewear
+Because this lab operates lasers across 520–808 nm, users must verify their eyewear
 covers the specific wavelength they are working with.
 
 *See Appendix B for list of available eyewear*
@@ -161,13 +162,9 @@ covers the specific wavelength they are working with.
 
 
 
-## Jewelry and Reflective Items
+### Jewelry and Reflective Items
 
-## Before working with any open beam, remove all watches, rings, necklaces, reflective
-
-badges, and similar items. Metal tools (screwdrivers, wrenches, tweezers) can act as
-specular reflectors. Use non-reflective tools when working near beam paths whenever
-possible. Mask possible reflective surfaces on the experimental setup where possible.
+Before working with any open beam, remove all watches, rings, necklaces, reflective badges, and similar items. Metal tools (screwdrivers, wrenches, tweezers) can act as specular reflectors. Use non-reflective tools when working near beam paths whenever possible. Mask possible reflective surfaces on the experimental setup where possible.
 
 ## AREA AND ENGINEERING CONTROLS
 
@@ -178,7 +175,7 @@ possible. Mask possible reflective surfaces on the experimental setup where poss
 - When Class 3b or Class 4 lasers are in operation, only authorized personnel may be in the experimental space.
 - Visitors or observers must be briefed on hazards and provided with appropriate eyewear before entering, with PI approval
 - Post ANSI-compliant DANGER signs at the lab entrance listing: wavelength(s), maximum power, hazard class, and required PPE
-- Activate emergency automatic door shutoff when Class 4 IR lasers are energized. This sensor immediately cuts power to the laser, turning it off, when the door to the experimental room is opened. This is an emergency safety precaution and to maintain propery laser procedures, should not be used as the primary method for turning off the laser. 
+- Activate emergency automatic door shutoff when Class 4 IR lasers are energized. This sensor immediately cuts power to the laser, turning it off, when the door to the experimental room is opened. This is an emergency safety precaution and to maintain proper laser procedures, should not be used as the primary method for turning off the laser. 
 - Lock or close the lab door during Class 4 laser operation, post laser in use signage when necessary.
 
 
@@ -198,10 +195,7 @@ possible. Mask possible reflective surfaces on the experimental setup where poss
 
 ### Key-Switch Interlock
 
-
-
-## Class 3b and Class 4 lasers have a key-switch interlock. 
-Remove the key when the laser is not in use. Never defeat or bypass any interlock.
+Class 3b and Class 4 lasers have a key-switch interlock. Remove the key when the laser is not in use. Never defeat or bypass any interlock.
 
 ## OPERATING PROCEDURES FOR LASERS WITH VISIBLE LIGHT
 
@@ -372,7 +366,7 @@ controlled and intentional
 | ---------------------------------- | ---------------------------------- |
 | Campus Emergency                   | 911 (campus) / 949-824-5222 (cell) |
 | UCI EHS / Laser Safety Officer     | 949-824-6200                       |
-| PI: Matthew Mchenry                | 949-302-7325                       |
+| PI: Matthew McHenry                | 949-302-7325                       |
 | Secondary contact: Ashley Peterson | 206-331-8505                       |
 
 

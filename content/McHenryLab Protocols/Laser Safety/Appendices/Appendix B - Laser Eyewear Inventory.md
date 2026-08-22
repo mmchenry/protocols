@@ -4,8 +4,6 @@ description: "Laser safety eyewear inventory for McHenry Lab SOPs."
 draft: false
 ---
 
-- Laser Safety Eyewear Inventory (model, wavelength coverage, OD values, storage location)
-
 | Eyewear Model   | Wavelength Coverage | OD Value | Count | Storage Location |
 | -------------   | ------------------- | -------- | ----- | ---------------- |
 | Laser-Gard      | 190-520             | >9       | 1 | McGaugh Hall rm. 5346       |
@@ -15,7 +13,7 @@ draft: false
 | JILERWEAR       | 180-540             | 6+       | 2 | McGaugh Hall rm. 5346       |
 |                 | 750-760             | 4+       |   | McGaugh Hall rm. 5346       |
 |                 | >760-780            | 5+       |   | McGaugh Hall rm. 5346       |
-|                 | >780-110            | 6+       |   | McGaugh Hall rm. 5346       |
+|                 | >780-1100           | 6+       |   | McGaugh Hall rm. 5346       |
 | Blue lense      | 190-380             | 5+       | 2 | McGaugh Hall rm. 5346       |
 |                 | 606-694             | 5+       |   | McGaugh Hall rm. 5346       |
 | MOD 562H0000312 | 190-315             | 6        | 1 | McGaugh Hall rm. 5346       |

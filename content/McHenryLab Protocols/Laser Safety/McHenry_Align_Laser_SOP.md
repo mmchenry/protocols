@@ -1,15 +1,4 @@
 
-
-NOTES:
-The Phase 2 remote adjustment section under 808 nm will need the most customization from you — specifically how your mounts are controlled (motorized, manual knobs accessible from outside, etc.) and what camera system you use. That section is intentionally left open for your workflow.
-
-The "if in-room access is required during Phase 2" procedure is important — make sure the wait time you fill in is appropriate for your laser's shutdown characteristics.
-
-If you have a door interlock tied to the 808 nm shutter, that should be described in detail in Appendix D and referenced clearly in the access control section.
-
-
-
-
 ---
 # LASER ALIGNMENT SOP
 **McHenry Lab - McGaugh Hall rm. 5346**
@@ -35,9 +24,9 @@ University of California, Irvine
 ## PURPOSE
 
 This SOP describes safe alignment procedures for laser systems in the McHenry lab. It covers
-both visible (635 nm) and near-infrared (808 nm) laser alignment. Because these two
-wavelength ranges involve different hazard profiles and physical access
-requirements, they are covered in separate sections below.
+visible lasers (405–658 nm, including violet, green, and red) and near-infrared (808 nm) laser
+alignment. Because these two wavelength ranges involve different hazard profiles and physical
+access requirements, they are covered in separate sections below.
 
 > **Most laser accidents occur during alignment. Read this SOP in full before
 > performing any alignment procedure. Never deviate from these procedures without
@@ -51,10 +40,9 @@ This SOP applies to alignment of Class 2 through Class 4 laser systems,
 specifically:
 
 - **Visible lasers:** 405 to 658 nm, 1 mW to 1500 mW, CW and Pulsed
-- **Near-IR lasers:** >=800 nm, 1000 W to 1.7 W, CW and Pulsed
+- **Near-IR lasers:** ≥800 nm, 1000 W to 1700 W, CW and Pulsed
 
-For general laser operation outside of alignment, refer to the McHenry `Laser General
-Use SOP".
+For general laser operation outside of alignment, refer to the McHenry "Laser General Use SOP".
 
 ---
 
@@ -89,8 +77,8 @@ these before beginning either the visible or IR alignment procedures.
 
 - [ ] Gather all required equipment before starting:
   - Beam stops and blocks
- % - Power meter / detector
- % - Beam profiling system or camera
+  - Power meter / detector
+  - Beam profiling system or camera
   - Camera capable of detecting laser light at low power
   - (For >800 nm lasers) IR viewer cards or IR camera
   - Non-reflective tools — no bare metal screwdrivers, wrenches, or tweezers in the beam path
@@ -220,7 +208,7 @@ rated for one visible wavelength may not be adequate for another.
 
 This section covers alignment of the 808 nm laser system(s).
 
-> **CRITICAL: Beams  >800 nm are completely invisible. Your eye's natural blink
+> **CRITICAL: Beams >800 nm are completely invisible. Your eye's natural blink
 > reflex will NOT protect you. There is no warning sensation before a retinal
 > injury occurs.**
 
@@ -298,7 +286,7 @@ leaving the room.
 All beam steering and verification is done from outside the room using the camera feed.
 
 1. From outside the room, insert key and power on the 808 nm laser
-2. Set power to minimum 
+2. Set power to minimum
 3. Announce "808 nm laser on" to your buddy / anyone in the hallway
 4. Open the shutter — confirm the beam is visible on the IR camera feed
 5. Using remote adjustment tools [describe your specific mechanism — e.g., motorized
@@ -370,7 +358,7 @@ If you need to re-enter the room to adjust an optic manually:
 | ---------------------------------- | ---------------------------------- |
 | Campus Emergency                   | 911 (campus) / 949-824-5222 (cell) |
 | UCI EHS / Laser Safety Officer     | 949-824-6200                       |
-| PI: Matthew Mchenry                | 949-302-7325                       |
+| PI: Matthew McHenry                | 949-302-7325                       |
 | Secondary contact: Ashley Peterson | 206-331-8505                       |
 
 ---
