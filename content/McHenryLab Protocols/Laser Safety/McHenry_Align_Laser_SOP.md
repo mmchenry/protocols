@@ -7,7 +7,8 @@ The "if in-room access is required during Phase 2" procedure is important — ma
 
 If you have a door interlock tied to the 808 nm shutter, that should be described in detail in Appendix D and referenced clearly in the access control section.
 
-As with the General Use SOP, have your PI and the UCI LSO (949-824-6200) review both documents together before finalizing, since the two SOPs cross-reference each other.
+
+
 
 ---
 # LASER ALIGNMENT SOP

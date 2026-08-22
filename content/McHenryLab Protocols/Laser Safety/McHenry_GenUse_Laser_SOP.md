@@ -9,9 +9,9 @@ University of California, Irvine
 | **Principal Investigator** | Matthew McHenry |
 | **Written by**             | Ashley Peterson |
 | **Date**                   | 03/31/2026      |
-| **Updated By**             | n/a             |
-| **Updated On**             | n/a             |
-| **Version**                | 1.0             |
+| **Updated By**             | Ashley Peterson |
+| **Updated On**             | 08/22/2026      |
+| **Version**                | 1.1             |
 
 
 **Reference Documents:**
@@ -22,12 +22,16 @@ University of California, Irvine
 
 ---
 
+
+
 ## PURPOSE
 
 This SOP covers the safe general operation of the various laser systems in the McHenry Lab. It applies to anyone who operates, maintains, or works in the vicinity of lasers.
 All users must read and follow this SOP, in addition to completing laser safety training through the UCI learning center, before operating any laser system.
 
 ---
+
+
 
 ## SCOPE
 
@@ -44,7 +48,11 @@ This SOP covers:
 
 ---
 
+
+
 ## ROLES AND RESPONSIBILITIES
+
+
 
 ### Principal Investigator
 
@@ -58,10 +66,14 @@ This SOP covers:
 - Ensures appropriate PPE is available at all times
 - Must approve any modifications to laser systems before they are made
 
+
+
 ### UCI EHS / Laser Safety Officer (LSO)
 
 - **Contact:** 949-824-6200 / [www.ehs.uci.edu](http://www.ehs.uci.edu)
 - Available for eyewear OD selection, laser registration, risk assessments, and annual lab safety evaluations
+
+
 
 ### Authorized Users
 
@@ -74,7 +86,11 @@ This SOP covers:
 
 ---
 
+
+
 ## HAZARDS
+
+
 
 ### Beam Hazards
 
@@ -95,6 +111,8 @@ and focus directly onto the retina, potentially causing permanent, irreversible 
 | Class 4  | Highest      | Direct, specular, and diffuse reflections all hazardous. Fire risk possible. Eyewear required. Full engineering controls required. |
 
 
+
+
 ### Other Hazards
 
 - **Electrical:** Laser power supplies (especially pulsed systems) may involve high-voltage components. Do not attempt to service any laser. Report any electrical concerns to the PI.
@@ -102,6 +120,8 @@ and focus directly onto the retina, potentially causing permanent, irreversible 
 - **Invisible beam:** IR light cannot be seen by the naked eye. The IR lasers in use are class 4 and will be operated remotely by the user in a separate room with a closed door. To align use IR viewer cards, an IR camera, or beam profiling camera to locate and verify the beam. Never assume the beam is off.
 
 ---
+
+
 
 ## TRAINING REQUIREMENTS
 
@@ -115,7 +135,11 @@ laser without explicit authorization from the PI.
 
 ---
 
+
+
 ## PERSONAL PROTECTIVE EQUIPMENT (PPE)
+
+
 
 ### Laser Safety Eyewear
 
@@ -135,7 +159,9 @@ covers the specific wavelength they are working with.
 - Return eyewear to designated storage when not in use
 - If you are unsure whether your eyewear is appropriate for a given laser, stop and contact the PI or LSO (949-824-6200) before proceeding
 
-### Jewelry and Reflective Items
+
+
+## Jewelry and Reflective Items
 
 ## Before working with any open beam, remove all watches, rings, necklaces, reflective
 
@@ -145,6 +171,8 @@ possible. Mask possible reflective surfaces on the experimental setup where poss
 
 ## AREA AND ENGINEERING CONTROLS
 
+
+
 ### Access Control
 
 - When Class 3b or Class 4 lasers are in operation, only authorized personnel may be in the experimental space.
@@ -152,6 +180,8 @@ possible. Mask possible reflective surfaces on the experimental setup where poss
 - Post ANSI-compliant DANGER signs at the lab entrance listing: wavelength(s), maximum power, hazard class, and required PPE
 - Activate emergency automatic door shutoff when Class 4 IR lasers are energized. This sensor immediately cuts power to the laser, turning it off, when the door to the experimental room is opened. This is an emergency safety precaution and to maintain propery laser procedures, should not be used as the primary method for turning off the laser. 
 - Lock or close the lab door during Class 4 laser operation, post laser in use signage when necessary.
+
+
 
 ### Beam Path and Experimental Setup
 
@@ -164,13 +194,18 @@ possible. Mask possible reflective surfaces on the experimental setup where poss
 - Before beginning work, clear the table and surrounding area of combustibles, unnecessary reflective objects (monitors, glass items, structural beams), and trip hazards
 - Close all curtains, doors, and access areas around the laser area before operating Class 3b or Class 4 lasers.
 
+
+
 ### Key-Switch Interlock
 
-## Class 3b and Class 4 lasers have a key-switch interlock. Remove the key when the laser
 
-is not in use. Never defeat or bypass any interlock.
+
+## Class 3b and Class 4 lasers have a key-switch interlock. 
+Remove the key when the laser is not in use. Never defeat or bypass any interlock.
 
 ## OPERATING PROCEDURES FOR LASERS WITH VISIBLE LIGHT
+
+
 
 ### Pre-Operation Checklist
 
@@ -192,6 +227,8 @@ is not in use. Never defeat or bypass any interlock.
 - Correct laser safety eyewear donned — verify OD and wavelength coverage for the specific laser in use
 - Eyewear inspected and undamaged
 
+
+
 ### Start-Up
 
 1. Complete the pre-operation checklist above
@@ -203,6 +240,8 @@ is not in use. Never defeat or bypass any interlock.
 7. **For pulsed lasers:** begin at minimum pulse energy and repetition rate
 8. (If applicable) Open the shutter only when you are ready to use the beam. Keep it closed during optics adjustments
 
+
+
 ### During Operation
 
 - Do not leave an energized Class 3b or Class 4 laser unattended.
@@ -212,13 +251,13 @@ is not in use. Never defeat or bypass any interlock.
 - Keep beam paths at table level. Do not insert objects into the beam path unless controlled and intentional
 - If you see an unexpected reflection or stray beam, power down the laser or close the shutter immediately before investigating
 
-> **[Lab-specific operating notes and procedures:]**
+
 
 ### Shut-Down
 
 1. Close the laser shutter (if applicable)
 2. Reduce output to minimum, then power off per manufacturer instructions
-3. Remove the key and store in the designated location: [location]
+3. If applicable, remove the key and store in designated laser storage box.
 4. Cover beam output with designated cap (if applicable)
 5. Leave beam stops in place over all optical paths
 6. Confirm the work area is safe before allowing unrestricted access
@@ -226,7 +265,11 @@ is not in use. Never defeat or bypass any interlock.
 
 ---
 
+
+
 ## OPERATING PROCEDURES FOR IR LASERS (NOT VISIBLE TO HUMAN EYE)
+
+
 
 ### Pre-Operation Checklist
 
@@ -249,6 +292,8 @@ is not in use. Never defeat or bypass any interlock.
 - Correct laser safety eyewear donned — verify OD and wavelength coverage for the specific laser in use
 - Eyewear inspected and undamaged
 
+
+
 ### Start-Up of IR Lasers
 
 1. Complete the pre-operation checklist above
@@ -260,9 +305,11 @@ is not in use. Never defeat or bypass any interlock.
 7. **For pulsed lasers:** begin at minimum pulse energy and repetition rate
 8. Energize lasers only when you are ready to use the beam. Keep lasers off during optics adjustments
 
+
+
 ### During Operation of IR lasers
 
-- Do not enter the experiment room when the laser is energized. For alignment use an IR viewer card, IR camera, or beam profiling system to locate the beam. Never assume it is off
+- Do not enter the experiment room when the laser is energized. For alignment use an IR viewer card, IR camera, or beam profiling system to locate the beam. Never assume the IR laser is off
 - Do not leave an energized IR laser unattended when energized
 - Turn off laser any time you pause, even briefly
 - Announce to others in the lab before opening the shutter ("laser on" or similar)
@@ -271,7 +318,8 @@ is not in use. Never defeat or bypass any interlock.
 controlled and intentional
 - If you see an unexpected reflection or stray beam in camera recordings, shut off power to the laser immediately before entering the room to investigate
 
-> **[Lab-specific operating notes and procedures:]**
+
+
 
 ### Shut-Down
 
@@ -282,7 +330,11 @@ controlled and intentional
 5. Confirm the work area is safe before allowing unrestricted access
 6. Report any notable observations, malfunctions, or incidents to the PI
 
+
+
 ## EMERGENCY PROCEDURES
+
+
 
 ### Suspected Eye or Skin Exposure
 
@@ -293,6 +345,8 @@ controlled and intentional
 5. PI must notify UCI EHS / LSO: **949-824-6200**
 6. For emergencies: UCI Police / Campus Emergency: **911** (campus phone) or **949-824-5222** (cell)
 
+
+
 ### Fire
 
 1. Close the laser shutter (if applicable) and power off if safe to do so
@@ -300,12 +354,16 @@ controlled and intentional
 3. Fire extinguisher location: McGaugh Hall Rm 5346 (main McHenry lab)
 4. Evacuate and call 911 if the fire is not immediately controlled
 
+
+
 ### Electrical Emergency
 
 1. Do not touch someone who is still in contact with an energized source
 2. Kill the circuit if possible using a non-conductive method
 3. Call 911 immediately
 4. Begin CPR if trained and the victim is unresponsive and not breathing
+
+
 
 ### Emergency Contacts
 
@@ -320,6 +378,8 @@ controlled and intentional
 
 ---
 
+
+
 ## GENERAL RULES
 
 - Keep the lab clean and organized
@@ -333,6 +393,8 @@ controlled and intentional
 
 ---
 
+
+
 ## REFERENCES
 
 - UCI EHS Laser Safety Manual, September 2023 ([www.ehs.uci.edu](http://www.ehs.uci.edu))
@@ -340,6 +402,8 @@ controlled and intentional
 - ANSI Z136.1-2014, American National Standard for Safe Use of Lasers
 
 ---
+
+
 
 ## APPENDICES
 
