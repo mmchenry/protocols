@@ -1,5 +1,3 @@
-
----
 # LASER ALIGNMENT SOP
 **McHenry Lab - McGaugh Hall rm. 5346**
 University of California, Irvine
