@@ -1,16 +1,16 @@
 ---
-title: "How to add images and PDFs"
-description: Examples for embedding images and linking PDFs in protocol pages.
+title: "How to author protocol pages"
+description: Formatting reference for images, PDFs, callout annotations, and other content patterns used in this site.
 draft: false
 aliases:
-  - Reference/Howto - Images and attachments.md
+  - Reference/Howto - Authoring.md
 ---
 
-# How to add images and PDFs
+# How to author protocol pages
 
-This page is a normal Markdown file under **`content/`**—it is built and published with the rest of the site. Use it as a template for images and PDFs on other pages.
+This page is a normal Markdown file under **`content/`**—it is built and published with the rest of the site.
 
-This page shows the usual patterns for **images** (shown on the page) and **PDFs** (opened or downloaded when clicked). Replace the example filenames with your own.
+This page covers common formatting patterns: **images**, **PDFs**, and **callout blocks** for inline annotations. Replace the example filenames with your own.
 
 ## Where to put files
 
@@ -102,3 +102,47 @@ Browsers usually open PDFs in a new tab or download them, depending on settings.
 | Same, wikilink    | `![[attachments/filename.jpg]]` — labeled links: see **Wikilink style** under PDFs above |
 
 After adding or changing files, commit and push to `main`; the site rebuilds automatically.
+
+---
+
+## Callout blocks (annotating protocol pages)
+
+Quartz supports **Obsidian-style callouts** — colored, icon-labeled boxes that stand out from normal text. These are useful for adding lab-specific annotations alongside a generic protocol or manual, making it clear which content is original and which is a local note.
+
+**Syntax:**
+
+```markdown
+> [!type] Optional title
+> Body text of the callout.
+> Can span multiple lines.
+```
+
+**Common types and when to use them:**
+
+| Type | Use for |
+|------|---------|
+| `[!note]` | Lab-specific definitions, clarifications, or context |
+| `[!tip]` | Shortcuts or preferred methods used in our setup |
+| `[!warning]` | Departures from the manual, or steps that can go wrong |
+| `[!info]` | Background context or cross-references |
+
+**Example — defining a term from a manual:**
+
+```markdown
+The arm should sit close to the center of the range (R28 brings the arm to center).
+
+> [!note] Lab definition — "center of its range"
+> The manual's "center of the mechanical range" is the arm position where LENGTH OUT reads **0.000 V**.
+> On our 310C this corresponds to the arm pointing roughly perpendicular to the motor body.
+> Verify with the DVM connected to LENGTH OUT before starting tuning.
+```
+
+**Example — flagging a deviation from the manual:**
+
+```markdown
+> [!warning] Our procedure differs here
+> The manual says to use a 20 g weight for the 300C force calibration.
+> Our unit reads correctly with 18.5 g due to a lever arm length difference — use the lab brass weight set, not the nominal value.
+```
+
+Callouts render as colored boxes on the published site and display normally as blockquotes in plain Markdown editors (GitHub, VS Code). The title is optional — omit it if the type label is self-explanatory.
