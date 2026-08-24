@@ -136,6 +136,8 @@ The arm should sit close to the center of the range (R28 brings the arm to cente
 > On our 310C this corresponds to the arm pointing roughly perpendicular to the motor body.
 > Verify with the DVM connected to LENGTH OUT before starting tuning.
 ```
+> [!note] Lab definition — "center of its range"
+> The manual's "center of the mechanical range" is the arm position where LENGTH OUT reads **0.000 V**.
 
 **Example — flagging a deviation from the manual:**
 
@@ -144,5 +146,15 @@ The arm should sit close to the center of the range (R28 brings the arm to cente
 > The manual says to use a 20 g weight for the 300C force calibration.
 > Our unit reads correctly with 18.5 g due to a lever arm length difference — use the lab brass weight set, not the nominal value.
 ```
+> [!warning] Our procedure differs here
+> The manual says to use a 20 g weight for the 300C force calibration.
 
 Callouts render as colored boxes on the published site and display normally as blockquotes in plain Markdown editors (GitHub, VS Code). The title is optional — omit it if the type label is self-explanatory.
+
+> [!tip] Add tip
+> Here is a tip.
+
+> [!info] Add information
+> Here is some information.
+
+> **Preview note:** Callouts do not render in VS Code's built-in Markdown preview or most other local editors — they will appear as plain blockquotes. This is expected. Push to `main` and check the live site to see the final result.
